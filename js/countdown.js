@@ -24,15 +24,15 @@ var x = setInterval(function () {
                                                     </div>
                                                     <div data-v-25c08be7="" class="timers">
                                                         <h2 data-v-25c08be7="">${hours}</h2>
-                                                        <div data-v-25c08be7="">Hours</div>
+                                                        <div data-v-25c08be7="">Jam</div>
                                                     </div>
                                                     <div data-v-25c08be7="" class="timers">
                                                         <h2 data-v-25c08be7="">${minutes}</h2>
-                                                        <div data-v-25c08be7="">Minutes</div>
+                                                        <div data-v-25c08be7="">Menit</div>
                                                     </div>
                                                     <div data-v-25c08be7="" class="timers">
                                                         <h2 data-v-25c08be7="">${seconds}</h2>
-                                                        <div data-v-25c08be7="">Seconds</div>
+                                                        <div data-v-25c08be7="">Detik</div>
                                                     </div>
                                                 </span></div>
   `;
